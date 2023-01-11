@@ -20,11 +20,11 @@ repositories {
 }
 
 dependencies {
-    implementation 'info.picocli:picocli:4.6.3'
+    implementation 'info.picocli:picocli:4.7.0'
     implementation project(":lib")
 
     // Use JUnit Jupiter for testing.
-    testImplementation 'org.junit.jupiter:junit-jupiter:5.8.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.0'
 }
 
 tasks.named('test') {
