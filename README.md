@@ -132,7 +132,7 @@ Todos los métodos y clases están documentados con JavaDoc
 
 ### Git
 El proyecto cuenta con un repositorio Git en el que se han realizado commits con mensajes descriptivos de cada una de las funcionalidades implementadas
-url del repositorio: ******
+url del repositorio: https://github.com/mauro-solerp/ProyectoFinalEdaI
 
 ### Colecciones
 Se implementó la funcionalidad de poder crear colecciones que guarden pares de clave-valor y poder acceder a ellas.
